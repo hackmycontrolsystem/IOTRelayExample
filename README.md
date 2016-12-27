@@ -1,2 +1,4 @@
 # ArduinoIOT
-Please see the Wiki for more details. Obvisiouly, this is a just down and dirty skeleton code. Feel free to tweak and add additional capabilities or modules.
+
+This code allows an Arduino Mega 2560 to enable/disable 110VAC power in response to photoelectric sensor analog output.
+
